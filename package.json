@@ -1,6 +1,20 @@
 {
   "name": "next-commercejs-test",
   "version": "0.1.0",
+  "license": "GNU General Public License",
+  "author": "Anusky <anusky.pitrusky@gmail.com> (https://github.com/anusky)",
+  "description": "Test application done with Next.js as React Framework and Commerce.js as CMS",
+  "keywords": [
+    "Next.js",
+    "React",
+    "Commerce.js",
+    "static site",
+    "ecommerce"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anusky/next-commercejs-test.git"
+  },
   "scripts": {
     "dev": "next",
     "build": "next build",
