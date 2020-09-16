@@ -1,0 +1,1 @@
+{"ast":null,"code":"// lib/commerce.js\nimport CommerceSDK from \"@chec/commerce.js\";\nconst client = new CommerceSDK(process.env.NEXT_PUBLIC_CHEC_PUBLIC_API_KEY);\nexport default client;","map":null,"metadata":{},"sourceType":"module"}
